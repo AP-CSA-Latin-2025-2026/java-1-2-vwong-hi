@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW54b",
+            "request": "launch",
+            "mainClass": "HW54b",
+            "projectName": "java-1-2-vwong-hi_4732b307"
+        },
+        {
+            "type": "java",
+            "name": "HW54a",
+            "request": "launch",
+            "mainClass": "HW54a",
+            "projectName": "java-1-2-vwong-hi_4732b307"
+        },
+        {
+            "type": "java",
+            "name": "HW54C",
+            "request": "launch",
+            "mainClass": "HW54C",
+            "projectName": "java-1-2-vwong-hi_4732b307"
+        },
+        {
+            "type": "java",
+            "name": "HW52a",
+            "request": "launch",
+            "mainClass": "HW52a",
+            "projectName": "java-1-2-vwong-hi_4732b307"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",
